@@ -17,18 +17,18 @@
   ],
   "author": {
     "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "email": "helalkherman@gmail.com",
+    "url": "https://helalk.com/"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zachleat/speedlify.git"
+    "url": "git+https://github.com/helalk/speedlify.git"
   },
   "bugs": {
-    "url": "https://github.com/zachleat/speedlify/issues"
+    "url": "https://github.com/helalk/speedlify/issues"
   },
-  "homepage": "https://github.com/zachleat/speedlify#readme",
+  "homepage": "https://github.com/helalk/speedlify#readme",
   "dependencies": {
     "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-fetch": "^3.0.0",

@@ -13,19 +13,6 @@ module.exports = {
 		freshChrome: "run"
 	},
 	urls: [
-		"https://www.11ty.dev/",
-		"https://www.gatsbyjs.com/",
-		"https://gohugo.io/",
-		"https://nextjs.org/",
-		"https://nuxtjs.org/",
-		"https://gridsome.org/",
-		"https://vuepress.vuejs.org/",
-		"https://docusaurus.io/",
-		"https://astro.build/",
-		"https://jekyllrb.com/",
-		"https://hexo.io/",
-		"https://kit.svelte.dev/",
-		"https://remix.run/",
-		"https://record-collector.net/",
+		"https://www.helalk.com/",
 	]
 };

@@ -12,15 +12,10 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://eslint.org/",
-		"https://qunitjs.com/",
-		"https://karma-runner.github.io/latest/index.html",
-		"https://gulpjs.com/",
-		"https://webhint.io/",
-		"https://gruntjs.com/",
-		"https://theintern.io/",
-		"https://istanbul.js.org/",
-		"https://webdriver.io/",
-		"https://mochajs.org/"
+		"https://dilu.helalk.com/",
+		"https://singlishtosinhala.helalk.com/",
+		"https://link2direct.helalk.com",
+		"https://sinhala.helalk.com/",
+		"https://sinhalaunicode.helalk.com/",
 	]
 };
